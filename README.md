@@ -1,2 +1,2 @@
 # Tesina
-Scripts de la Tesis de Grado y otros analisis
+Este repositorio contiene scripts de la Tesis de Grado titulada: "Evaluación de factores ambientales asociados a la distribución geográfica del aguará guazú (Chrysocyon brachyurus) en la provincia de Santa Fe" de mi autoría. También contiene scripts utilizados para la publicacion que se desprende te la tesis titulada: "Spatial distribution of environmental suitability for the maned wolf in central Argentina", https://doi.org/10.1007/s42991-024-00407-5.
