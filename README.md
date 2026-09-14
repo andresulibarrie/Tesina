@@ -17,11 +17,11 @@ El repositorio se organiza en los siguientes módulos principales según las eta
 
 \`\`\`text
 .
-├── Generales/
-├── Variables_Ambientales/
-├── Estadisticas/
-├── Filtrados/
-└── Maxent/
+├── Generales/  
+├── Variables_Ambientales/  
+├── Estadisticas/  
+├── Filtrados/  
+└── Maxent/  
 
 ### 1. `Generales/`
 
