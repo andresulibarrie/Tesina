@@ -13,7 +13,7 @@ Asimismo, incluye el código utilizado para la publicación derivada:
 
 ## 📁 Estructura del Repositorio
 
-El repositorio se organiza en los siguientes módulos principales según las etapas del flujo de trabajo:
+El repositorio se organiza en los siguientes módulos principales según las etapas del flujo de trabajo:  
 .
 ├── Generales/  
 ├── Variables_Ambientales/  
